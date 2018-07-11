@@ -1,0 +1,45 @@
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+
+#title-text{
+    margin-top:auto;
+    font-size: 50px;
+    color: #4286f4;
+}
+button{
+    margin-top:auto;
+    margin-bottom:30px
+}
+.code-icon{
+    margin-top:8%;
+}
+
+#home-btn{
+    font-size: 20px;
+    color: white;
+    border: 1px solid black;
+    border-radius:10px;
+    width:50%;
+    background-color: rgb(24, 123, 209);
+}
+
+body {
+    
+    background-image: url("background.jpg");
+
+    
+    height: 100%; 
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#home-btn:hover{
+    background-color:white;
+    color:rgb(24, 123, 209);
+    border:3px dashed rgb(24, 123, 209);
+}
