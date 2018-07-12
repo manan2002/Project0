@@ -1,0 +1,13 @@
+#heading{
+    text-align:center;
+    font-size:35px;
+    color:#4286f4; 
+    margin-top:10px; 
+    margin-bottom:20px;
+}
+.col-lg-3{
+    background-color: #4286f4;
+    margin:8px;
+    width:33%;
+    height:30%;
+}
